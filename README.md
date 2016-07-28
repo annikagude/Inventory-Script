@@ -1,4 +1,4 @@
-# Inventory-Script
+# WetLab Inventory Calculator
 #for the energy solution in a cell free reaction 
 #"Remaining" was originally part of the csv file when imported
 
